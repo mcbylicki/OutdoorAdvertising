@@ -5,6 +5,7 @@ Folder jest suplementem do pracy:
 Autorzy: Michał Bylicki (80%); Mikołaj Czajkowski (10%); Wiktor Budziński (5%); Mateusz Buczyński (5%).
 
 pliki: 
+
 ankieta reklamy: zawiera wzór kwestionariusza. 
 
 data_reklamy_short_123.mat: zawiera dane, wyniki z ankiety w formacie krótkim. 
